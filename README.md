@@ -5,10 +5,10 @@ This is a MATLAB implementation of the Sparse FIR Hyperfan filter for light fiel
 The input light field should be in MAT file format (.mat extension). 
 
 Parameters:
-- alpha - Orientation of fan filter in 
-- theta - Half fan angle
-- B - Length of bow-tie shaped passband
-- T - Angular width of bow-tie shaped passband
+- ![](docs/Images/alpha.gif) - Orientation of fan filter in ![](docs/Images/xu.gif) and ![](docs/Images/yv.gif) subspaces.
+- ![](docs/Images/theta.gif) - Half fan angle.
+- B - Length of bow-tie shaped passband.
+- T - Angular width of bow-tie shaped passband.
 
 
 ![val1](docs/Images/val1.gif)
