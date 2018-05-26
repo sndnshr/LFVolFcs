@@ -10,6 +10,10 @@ Parameters:
 - B - Length of bow-tie shaped passband.
 - T - Angular width of bow-tie shaped passband.
 
+## Results
+#### Comparison between sparse and nonsparse FIR Hyperfan filter
+
+Results for both sparse and nonsparse filters of the same parameters, are shown below for selected light fields of [EPFL dataset](https://mmspg.epfl.ch/EPFL-light-field-image-dataset) for visual comparison. As a representative case, following values are chosen for the filter parameters ![](docs/Images/alpha.gif), ![](docs/Images/theta.gif), *B* and *T*. 
 
 ![val1](docs/Images/val1.gif)
 
