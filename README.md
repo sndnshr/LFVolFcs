@@ -24,7 +24,7 @@ Results for both sparse and nonsparse filters of the same parameters, are shown 
 
 #### Output comparison with different ![](docs/Images/bold_alpha.gif) values
 
-Following is a comparison of output images obtained using the ***sparse filter*** on selected light fields, with different ![](docs/Images/alpha.gif) values. Here,
+Following is a visual comparison of output images obtained using the ***sparse filter*** with different ![](docs/Images/alpha.gif) values, on selected light fields. Here,
 
 ![](docs/Images/vary_alpha.gif)
 
@@ -35,3 +35,4 @@ Following is a comparison of output images obtained using the ***sparse filter**
 | Gravel Garden | <img src="docs/Images/GG_15_60_ht.png" width="300" > | <img src="docs/Images/GG_15_105_ht.png" width="300" > |
 | Sophie & Vincent 1 | <img src="docs/Images/Sophie_&_Vincent_1_15_60_ht.png" width="300" > | <img src="docs/Images/Sophie_&_Vincent_1_15_105_ht.png" width="300" > |
 | Swans 1 | <img src="docs/Images/Swans_1_15_60_ht.png" width="300" > | <img src="docs/Images/Swans_1_15_105_ht.png" width="300" > |
+
