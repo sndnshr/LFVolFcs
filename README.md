@@ -30,8 +30,8 @@ Following is a comparison of output images obtained using the ***sparse filter**
 
 | | ![](docs/Images/bold_alpha.gif)=60 | ![](docs/Images/bold_alpha.gif)=105 |
 | --- | --- | --- |
-| Books | <img src="docs/Images/Books_15_60_ht.png" width="300" > | <img src="docs/Images/Books_15_60_ht.png" width="300" > |
+| Books | <img src="docs/Images/Books_15_60_ht.png" width="300" > | <img src="docs/Images/Books_15_105_ht.png" width="300" > |
 | Flowers | <img src="docs/Images/F_15_60_ht.png" width="300" > | <img src="docs/Images/F_15_105_ht.png" width="300" > |
-| Gravel Garden | <img src="docs/Images/GG_15_60_ht.png" width="300" > | <img src="docs/Images/GG_15_60_ht.png" width="300" > |
-| Sophie & Vincent 1 | <img src="docs/Images/Sophie_&_Vincent_1_15_60_ht.png" width="300" > | <img src="docs/Images/Sophie_&_Vincent_1_15_60_ht.png" width="300" > |
-| Swans 1 | <img src="docs/Images/Swans_1_15_60_ht.png" width="300" > | <img src="docs/Images/Swans_1_15_60_ht.png" width="300" > |
+| Gravel Garden | <img src="docs/Images/GG_15_60_ht.png" width="300" > | <img src="docs/Images/GG_15_105_ht.png" width="300" > |
+| Sophie & Vincent 1 | <img src="docs/Images/Sophie_&_Vincent_1_15_60_ht.png" width="300" > | <img src="docs/Images/Sophie_&_Vincent_1_15_105_ht.png" width="300" > |
+| Swans 1 | <img src="docs/Images/Swans_1_15_60_ht.png" width="300" > | <img src="docs/Images/Swans_1_15_105_ht.png" width="300" > |
