@@ -21,3 +21,17 @@ Results for both sparse and nonsparse filters of the same parameters, are shown 
 | --- | --- | --- | --- | --- |
 |Sparse filter| <img src="docs/Images/F_35_45.png" width="300" > | <img src="docs/Images/MPT_35_45.png" width="300" > | <img src="docs/Images/Sophie_&_Vincent_1_35_45.png" width="300" > | <img src="docs/Images/Swans_1_35_45.png" width="300" > |
 |Nonsparse filter| <img src="docs/Images/F_35_45_ht.png" width="300" > | <img src="docs/Images/MPT_35_45_ht.png" width="300" > | <img src="docs/Images/Sophie_&_Vincent_1_35_45_ht.png" width="300" > | <img src="docs/Images/Swans_1_35_45_ht.png" width="300" > |
+
+#### Output comparison with different ![](docs/Images/bold_alpha.gif) values
+
+Following is a comparison of output images obtained using the ***sparse filter*** on selected light fields, with different ![](docs/Images/alpha.gif) values. Here,
+
+![](docs/Images/vary_alpha.gif)
+
+| | ![](docs/Images/bold_alpha.gif)=60 | ![](docs/Images/bold_alpha.gif)=105 |
+| --- | --- | --- |
+| Books | ![](docs/Images/Books_15_60_ht.png) | ![](docs/Images/Books_15_105_ht.png) |
+| Flowers | ![](docs/Images/F_15_60_ht.png) | ![](docs/Images/F_15_105_ht.png) |
+| Gravel Garden | ![](docs/Images/GG_15_60_ht.png) | ![](docs/Images/GG_15_105_ht.png) |
+| Sophie & Vincent 1 | ![](docs/Images/Sophie_&_Vincent_1_15_60_ht.png) | ![](docs/Images/Sophie_&_Vincent_1_15_105_ht.png) |
+| Swans 1 | ![](docs/Images/Swans_1_15_60_ht.png) | ![](docs/Images/Swans_1_15_105_ht.png) |
