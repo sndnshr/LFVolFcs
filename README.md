@@ -11,7 +11,7 @@ Parameters:
 - T - Angular width of the bow-tie shaped passband.
 
 ## Results
-### Comparison between sparse and nonsparse FIR Hyperfan filter
+### Output comparison between sparse and nonsparse FIR Hyperfan filter
 
 Results for both sparse and nonsparse filters of the same parameters, are shown below for selected light fields of [EPFL dataset](https://mmspg.epfl.ch/EPFL-light-field-image-dataset) for visual comparison. As a representative case, following values are chosen for the filter parameters ![](docs/Images/alpha.gif), ![](docs/Images/theta.gif), *B* and *T*. 
 
@@ -42,3 +42,11 @@ Following is a visual comparison of output images obtained using the ***sparse f
 | Sophie & Vincent 1 | <img src="docs/Images/Sophie_&_Vincent_1_15_60_ht.png" width="300" > | <img src="docs/Images/Sophie_&_Vincent_1_15_105_ht.png" width="300" > |
 | Swans 1 | <img src="docs/Images/Swans_1_15_60_ht.png" width="300" > | <img src="docs/Images/Swans_1_15_105_ht.png" width="300" > |
 
+
+### Comparison between sparse and nonsparse FIR Hyperfan filter
+
+Apart from the SSIM metric, normalized root mean square error (NRMSE) also can be used to quantify sparse filter performance compared to that of the nonsparse filter. 
+
+![](docs/Images/nrmse.gif)
+
+Furthermore, percentage number of non-zero coefficients of the sparse filter w.r.t that of nonsparse filter, can be used as a metric to evaluate the reduction of computational complexity.
