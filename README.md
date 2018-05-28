@@ -53,8 +53,12 @@ Furthermore, percentage number of non-zero coefficients of the sparse filter w.r
 
 ##### Varying ![](docs/Images/alpha.gif) and ![](docs/Images/hth.gif)
 
+![](docs/Images/vary_alpha.gif)![](docs/Images/order.gif)
+
  <img src="docs/Images/RMSE_alpha_hth.png" width="430" >  <img src="docs/Images/nonZeroCoef_vs_alpha_hth.png" width="430" > 
 
 ##### Varying ![](docs/Images/alpha.gif) and ![](docs/Images/theta.gif)
+
+![](docs/Images/vary_alpha_theta.gif)![](docs/Images/order.gif)
 
  <img src="docs/Images/RMSE_alpha_theta.png" width="430" >  <img src="docs/Images/nonZeroCoef_vs_alpha_theta.png" width="430" >
