@@ -1,14 +1,14 @@
 # Light Field Refocusing with 4-D Sparse FIR Hyperfan Filter
-This is a MATLAB implementation of the Sparse FIR Hyperfan filter for light field refocusing.
+This is a MATLAB implementation of the sparse FIR hyperfan filter for light field refocusing.
 
 ## Conventions
 The input light field should be in MAT file format (.mat extension). 
 
 Parameters:
-- ![](docs/Images/alpha.gif) - Orientation of fan filter in ![](docs/Images/xu.gif) and ![](docs/Images/yv.gif) subspaces.
+- ![](docs/Images/alpha.gif) - Orientation of the fan filter in the ![](docs/Images/xu.gif) and ![](docs/Images/yv.gif) subspaces.
 - ![](docs/Images/theta.gif) - Half fan angle.
-- B - Length of bow-tie shaped passband.
-- T - Angular width of bow-tie shaped passband.
+- B - Length of the bow-tie shaped passband.
+- T - Angular width of the bow-tie shaped passband.
 
 ## Results
 #### Comparison between sparse and nonsparse FIR Hyperfan filter
