@@ -11,21 +11,24 @@ Parameters:
 - T - Angular width of the bow-tie shaped passband.
 
 ## Results
-#### Comparison between sparse and nonsparse FIR Hyperfan filter
+### Comparison between sparse and nonsparse FIR Hyperfan filter
 
 Results for both sparse and nonsparse filters of the same parameters, are shown below for selected light fields of [EPFL dataset](https://mmspg.epfl.ch/EPFL-light-field-image-dataset) for visual comparison. As a representative case, following values are chosen for the filter parameters ![](docs/Images/alpha.gif), ![](docs/Images/theta.gif), *B* and *T*. 
 
 ![val1](docs/Images/val1.gif)
 
+[SSIM](https://en.wikipedia.org/wiki/Structural_similarity) value of the sparse filter output with respect to that of nonsparse filter, is given as a quantification of image quality. 
 
 | Light field | Sparse filter | Nonsparse filter | SSIM |
 | --- | --- | --- | --- |
-| Flowers | <img src="docs/Images/F_35_45_ht.png" width="300" > | <img src="docs/Images/F_35_45.png" width="300" > | |
-| Mirabelle Prune Tree | <img src="docs/Images/MPT_35_45_ht.png" width="300" > | <img src="docs/Images/MPT_35_45.png" width="300" > | |
-| Sophie & Vincent 1 | <img src="docs/Images/Sophie_&_Vincent_1_35_45_ht.png" width="300" > | <img src="docs/Images/Sophie_&_Vincent_1_35_45.png" width="300" > | |
-| Swans 1 | <img src="docs/Images/Swans_1_35_45_ht.png" width="300" > | <img src="docs/Images/Swans_1_35_45.png" width="300" > | |
+| Flowers | <img src="docs/Images/F_35_45_ht.png" width="300" > | <img src="docs/Images/F_35_45.png" width="300" > | 0.9882 |
+| Mirabelle Prune Tree | <img src="docs/Images/MPT_35_45_ht.png" width="300" > | <img src="docs/Images/MPT_35_45.png" width="300" > | 0.9714 |
+| Sophie & Vincent 1 | <img src="docs/Images/Sophie_&_Vincent_1_35_45_ht.png" width="300" > | <img src="docs/Images/Sophie_&_Vincent_1_35_45.png" width="300" > | 0.9897 |
+| Swans 1 | <img src="docs/Images/Swans_1_35_45_ht.png" width="300" > | <img src="docs/Images/Swans_1_35_45.png" width="300" > | 0.9916 |
 
-#### Output comparison with different ![](docs/Images/bold_alpha.gif) values
+
+
+### Output comparison with different ![](docs/Images/bold_alpha.gif) values
 
 Following is a visual comparison of output images obtained using the ***sparse filter*** with different ![](docs/Images/alpha.gif) values, on selected light fields. Here,
 
