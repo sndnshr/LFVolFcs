@@ -50,3 +50,11 @@ Apart from the SSIM metric, normalized root mean square error (NRMSE) also can b
 ![](docs/Images/nrmse.gif)
 
 Furthermore, percentage number of non-zero coefficients of the sparse filter w.r.t that of nonsparse filter, can be used as a metric to evaluate the reduction of computational complexity.
+
+##### Varying ![](docs/Images/alpha.gif) and ![](docs/Images/hth.gif)
+
+ <img src="docs/Images/RMSE_alpha_hth.png" width="430" >  <img src="docs/Images/nonZeroCoef_vs_alpha_hth.png" width="430" > 
+
+##### Varying ![](docs/Images/alpha.gif) and ![](docs/Images/theta.gif)
+
+ <img src="docs/Images/RMSE_alpha_theta.png" width="430" >  <img src="docs/Images/nonZeroCoef_vs_alpha_theta.png" width="430" >
