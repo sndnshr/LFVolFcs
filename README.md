@@ -17,10 +17,13 @@ Results for both sparse and nonsparse filters of the same parameters, are shown 
 
 ![val1](docs/Images/val1.gif)
 
- | | Flowers | Mirabelle Prune Tree | Sophie & Vincent 1 | Swans 1|
-| --- | --- | --- | --- | --- |
-|Sparse filter| <img src="docs/Images/F_35_45.png" width="300" > | <img src="docs/Images/MPT_35_45.png" width="300" > | <img src="docs/Images/Sophie_&_Vincent_1_35_45.png" width="300" > | <img src="docs/Images/Swans_1_35_45.png" width="300" > |
-|Nonsparse filter| <img src="docs/Images/F_35_45_ht.png" width="300" > | <img src="docs/Images/MPT_35_45_ht.png" width="300" > | <img src="docs/Images/Sophie_&_Vincent_1_35_45_ht.png" width="300" > | <img src="docs/Images/Swans_1_35_45_ht.png" width="300" > |
+
+| Light field | Sparse filter | Nonsparse filter | SSIM |
+| --- | --- | --- | --- |
+| Flowers | <img src="docs/Images/F_35_45_ht.png" width="300" > | <img src="docs/Images/F_35_45.png" width="300" > | |
+| Mirabelle Prune Tree | <img src="docs/Images/MPT_35_45_ht.png" width="300" > | <img src="docs/Images/MPT_35_45.png" width="300" > | |
+| Sophie & Vincent 1 | <img src="docs/Images/Sophie_&_Vincent_1_35_45_ht.png" width="300" > | <img src="docs/Images/Sophie_&_Vincent_1_35_45.png" width="300" > | |
+| Swans 1 | <img src="docs/Images/Swans_1_35_45_ht.png" width="300" > | <img src="docs/Images/Swans_1_35_45.png" width="300" > | |
 
 #### Output comparison with different ![](docs/Images/bold_alpha.gif) values
 
