@@ -47,7 +47,13 @@ Following is a visual comparison of output images obtained using the ***sparse f
 
 Normalized root mean square error (NRMSE) is used to quantify the deviation of the frequency response of the sparse filter compared to the nonsparse filter.
 
-![](docs/Images/nrmse.gif)
+![](docs/Images/nrmse.gif)                   
+
+where,
+
+![](docs/Images/sparse.gif) - Frequency response of the sparse filter
+
+![](docs/Images/nonsparse.gif) - Frequency response of the nonsparse filter
 
 Furthermore, number of non-zero coefficients of the sparse filter with respect to that of nonsparse filter, can be used as a metric to evaluate the reduction of computational complexity.
 
