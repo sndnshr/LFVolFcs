@@ -17,7 +17,7 @@ Results for both sparse and nonsparse filters of the same parameters, are shown 
 
 ![val1](docs/Images/val1.gif)![](docs/Images/order.gif)
 
-[SSIM](https://en.wikipedia.org/wiki/Structural_similarity) values of the volumetric refocused images obtained using the proposed sparse filter, with respect to those of the nonsparse filter, are also given below.
+[SSIM](https://en.wikipedia.org/wiki/Structural_similarity) values of the volumetric refocused images obtained using the proposed ***sparse filter***, with respect to those obtained using the nonsparse filter, are also given below.
 
 | Light field | Sparse filter | Nonsparse filter | SSIM |
 | --- | --- | --- | --- |
