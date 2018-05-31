@@ -32,7 +32,7 @@ Results for both sparse and nonsparse filters of the same parameters, are shown 
 
 Following is a visual comparison of output images obtained using the ***sparse filter*** with different ![](docs/Images/alpha.gif) values, on selected light fields. Here,
 
-![](docs/Images/vary_alpha.gif)![](docs/Images/order.gif)![](docs/Images/order.gif)
+![](docs/Images/vary_alpha.gif)![](docs/Images/order.gif)![](docs/Images/hth1.gif)
 
 | | ![](docs/Images/bold_alpha.gif)=60 | ![](docs/Images/bold_alpha.gif)=105 |
 | --- | --- | --- |
