@@ -55,6 +55,10 @@ where,
 
 ![](docs/Images/nonsparse.gif) - Frequency response of the nonsparse filter
 
+![](docs/Images/fx.gif) - FFT length for x dimension
+
+![](docs/Images/fu.gif) - FFT length for u dimension
+
 Furthermore, number of non-zero coefficients of the sparse filter with respect to that of nonsparse filter, can be used as a metric to evaluate the reduction of computational complexity.
 
 ##### Varying ![](docs/Images/alpha.gif) and ![](docs/Images/hth.gif)
