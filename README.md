@@ -45,11 +45,11 @@ Following is a visual comparison of output images obtained using the ***sparse f
 
 ### Comparison between sparse and nonsparse FIR Hyperfan filter
 
-Apart from the SSIM metric, normalized root mean square error (NRMSE) also can be used to quantify sparse filter performance compared to that of the nonsparse filter. 
+Normalized root mean square error (NRMSE) is used to quantify the deviation of the frequency response of the sparse filter compared to the nonsparse filter.
 
 ![](docs/Images/nrmse.gif)
 
-Furthermore, percentage number of non-zero coefficients of the sparse filter w.r.t that of nonsparse filter, can be used as a metric to evaluate the reduction of computational complexity.
+Furthermore, number of non-zero coefficients of the sparse filter with respect to that of nonsparse filter, can be used as a metric to evaluate the reduction of computational complexity.
 
 ##### Varying ![](docs/Images/alpha.gif) and ![](docs/Images/hth.gif)
 
