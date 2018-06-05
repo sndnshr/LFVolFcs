@@ -15,7 +15,7 @@ Parameters:
 
 Results for both sparse and nonsparse filters of the same parameters, are shown below for selected light fields of [EPFL dataset](https://mmspg.epfl.ch/EPFL-light-field-image-dataset) for visual comparison. As a representative case, following values are chosen for the filter parameters ![](docs/Images/alpha.gif), ![](docs/Images/theta.gif), *B* and *T*. 
 
-![val1](docs/Images/val1.gif)![](docs/Images/order.gif)![](docs/Images/hth.gif)
+![val1](docs/Images/val1.gif)![](docs/Images/order.gif)![](docs/Images/hth1.gif)
 
 [SSIM](https://en.wikipedia.org/wiki/Structural_similarity) values of the volumetric refocused images obtained using the proposed ***sparse filter***, with respect to those obtained using the nonsparse filter, are also given below.
 
@@ -32,7 +32,7 @@ Results for both sparse and nonsparse filters of the same parameters, are shown 
 
 Following is a visual comparison of output images obtained using the ***sparse filter*** with different ![](docs/Images/alpha.gif) values, on selected light fields. Here,
 
-![](docs/Images/vary_alpha.gif)![](docs/Images/order.gif)![](docs/Images/hth.gif)
+![](docs/Images/vary_alpha.gif)![](docs/Images/order.gif)![](docs/Images/hth1.gif)
 
 | | ![](docs/Images/bold_alpha.gif)=60 | ![](docs/Images/bold_alpha.gif)=105 |
 | --- | --- | --- |
