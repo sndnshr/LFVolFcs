@@ -33,6 +33,7 @@ mse = mean((lfvfh(:)-lfvf(:)).^2);
 psnr = 10*log10(maxval^2/mse);
 [ssimval,~] = ssim(lfvfh,lfvf);
 
+% Comment out the following when running 'perf_theta_hth'
 disp(['PSNR = ',num2str(psnr),' dB']);
 disp(['SSIM = ',num2str(ssimval),' units']);
 
