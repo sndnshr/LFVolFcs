@@ -1,6 +1,8 @@
 # Light Field Refocusing with 4-D Sparse FIR Hyperfan Filter
 This is a MATLAB implementation of the sparse FIR hyperfan filter for light field refocusing.
 
+License: [BSD 2-Clause](./BSD_2-Clause_Simplified.md)
+
 ## Conventions
 The input light field should be in MAT file format (.mat extension). 
 
@@ -47,7 +49,7 @@ Following is a visual comparison of output images obtained using the ***sparse f
 
 Normalized root mean square error (NRMSE) is used to quantify the deviation of the frequency response of the sparse filter compared to the nonsparse filter.
 
-![](docs/Images/nrmse.gif)                   
+![](docs/Images/nrmse_eq.gif)                   
 
 where,
 
