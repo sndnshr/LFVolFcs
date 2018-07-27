@@ -1,8 +1,10 @@
 # Light Field Refocusing with 4-D Sparse FIR Hyperfan Filter
 This is a MATLAB implementation of the sparse FIR hyperfan filter for light field refocusing.
 
-- Reference: Sanduni U. Premaratne, Chamira U. S. Edussooriya, Chamith Wijenayake, Len T. Bruton and Panajotis Agathoklis,"A 4-D Sparse FIR Hyperfan Filter for Volumetric Refocusing of Light Fields" (Submitted to [IEEE DSP 2018](http://dsp2018.org/home.asp))
+- Reference: Sanduni U. Premaratne, Chamira U. S. Edussooriya, Chamith Wijenayake, Len T. Bruton and Panajotis Agathoklis,"A 4-D Sparse FIR Hyperfan Filter for Volumetric Refocusing of Light Fields", pp.1-5, [IEEE DSP 2018](http://dsp2018.org/home.asp) (Accepted)
 - License: [BSD 2-Clause](./BSD_2-Clause_Simplified.md)
+
+We kindly request you to cite the above paper in case you refer this work.
 
 ## Conventions
 The input light field should be in MAT file format (.mat extension). 
