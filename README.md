@@ -1,7 +1,8 @@
 # Light Field Refocusing with 4-D Sparse FIR Hyperfan Filter
 This is a MATLAB implementation of the sparse FIR hyperfan filter for light field refocusing.
 
-- Reference: Sanduni U. Premaratne, Chamira U. S. Edussooriya, Chamith Wijenayake, Len T. Bruton and Panajotis Agathoklis,"A 4-D Sparse FIR Hyperfan Filter for Volumetric Refocusing of Light Fields by Hard Thresholding," IEEE Int. Conf. Digital Signal Process. - Proc., pp.1-5,2018.
+- Reference: Sanduni U. Premaratne, Chamira U. S. Edussooriya, Chamith Wijenayake, Len T. Bruton and Panajotis Agathoklis,"A 4-D Sparse FIR Hyperfan Filter for Volumetric Refocusing of Light Fields by Hard Thresholding," in Proceedings of International Conference on Digital Signal Processing, pp.1-5, 2018.
+- e-print: [A 4-D Sparse FIR Hyperfan Filter for Volumetric Refocusing of Light Fields by Hard Thresholding](https://www.researchgate.net/publication/326979196_A_4D_Sparse_FIR_Hyperfan_Filter_for_Volumetric_Refocusing_of_Light_Fields_by_Hard_Thresholding)
 - License: [BSD 2-Clause](./BSD_2-Clause_Simplified.md)
 
 We kindly request you to cite the above paper in case you refer this work.
