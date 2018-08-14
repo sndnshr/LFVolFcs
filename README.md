@@ -57,7 +57,7 @@ Normalized root mean square error (NRMSE) is used to quantify the deviation of t
 
 where,
 
-![](docs/Images/k.gif)
+![](docs/Images/k1.gif)
 
 ![](docs/Images/spase_H.gif) - Frequency response of the sparse filter
 
